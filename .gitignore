@@ -1,6 +1,9 @@
 node_modules
+.DS_Store
 
 /server/index.js
+/server/index.js.map
+
 /public/build
 preferences.arc
 sam.json
